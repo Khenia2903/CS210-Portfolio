@@ -68,6 +68,7 @@ Clear naming: Descriptive variables like itemFrequency
 Scalable structure: Easy to add new features like date filtering
 
 Files Included
+
 GroceryTracker.cpp - Main program source
 
 frequency.dat - Sample output file
