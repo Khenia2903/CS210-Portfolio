@@ -19,6 +19,7 @@ Execute:
 
 bash
 ./tracker
+
 Reflection
 1. Project Purpose
 This program solves Corner Grocer's need to analyze customer purchases by tracking how often each item appears in their daily sales data. It helps optimize store layout by identifying popular items.
